@@ -3,7 +3,7 @@ A professional Roblox anticheat module.
 
 # Installation
 
-Copy the code from RemoteInstaller.lua and paste into a new module.
+Copy the code from RemoteInstaller.lua and paste into a new ReplicatedStorage module.
 
 Go to Server.lua and copy that code, paste it into serverScriptService a NORMAL script.
 
