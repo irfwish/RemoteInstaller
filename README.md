@@ -7,6 +7,8 @@ Download the RemoteInstaller rbxm file
 
 Import it into ReplicatedStorage
 
+Require it on the server and client
+
 Experiment with the features and enjoy!
 
 # Tips
