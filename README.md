@@ -14,3 +14,6 @@ Add 3 remote events to your main module in ReplicatedStorage
 Call them Install, Request, and Disconnect
 
 Success! You are now done installing. Play around with the code to use it!
+
+# Version 1.0.0 [RELEASE!]
+* Remote Event Requesting & Disconnecting
