@@ -3,17 +3,15 @@ A professional Roblox anticheat module.
 
 # Installation
 
-Copy the code from RemoteInstaller.lua and paste into a new ReplicatedStorage module.
+Download the RemoteInstaller rbxm file
 
-Go to Server.lua and copy that code, paste it into serverScriptService a NORMAL script.
+Import it into ReplicatedStorage
 
-Add a folder to your new script, call it "ServerPackages"
+Experiment with the features and enjoy!
 
-Add 3 remote events to your main module in ReplicatedStorage
+# Tips
 
-Call them Install, Request, and Disconnect
-
-Success! You are now done installing. Play around with the code to use it!
+You can put pre-game remote events inside of the module --> Server --> ServerPackages
 
 # Version 1.0.0 [RELEASE!]
 * Remote Event Requesting & Disconnecting
