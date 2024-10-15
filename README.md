@@ -23,6 +23,7 @@ Always Instantiate remote events on the client! The server is not needed
 * Encoding and Decoding
 * Easier event preloads
 * Client-invisible firing (client cant see remote events firing)
+* Easier Usage & Connect function
 * Bug fixes
 
 # Version 1.0.1
