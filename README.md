@@ -9,15 +9,26 @@ Import it into ReplicatedStorage
 
 Require it on the server and client
 
+Move your current events over to Preload
+
 Experiment with the features and enjoy!
 
 # Tips
 
 You can put pre-game remote events inside of the module --> Preload folder
 
-Need a server remote event? Easy! Just look in the ServerPackages folder
+Make variables for events on the client with :BindTo Event or Function
 
-Always Instantiate remote events on the client! The server is not needed
+Get events with :GetEvent for the server
+
+Always use paranthesis on .OnClientEvent or it wont run
+
+# V1.0.4
+* Firewall & Settings
+* Client Variable-Stored Events
+* Module Organization
+* Smoother Firing
+* Bug Fixes
 
 # Version 1.0.3
 * Fixed firing twice
